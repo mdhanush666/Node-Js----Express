@@ -1,0 +1,8 @@
+07-09-2024	19:26:04	92e141e0-d194-43ba-b094-3d8b4de99a82	Error	Not allowed by CORS!
+07-09-2024	19:26:16	0582a275-3d79-41e3-af95-0a31a4b1356c	Error	Not allowed by CORS!
+07-09-2024	19:26:16	c6720b94-91c8-4cce-86d9-d039765c5b6d	Error	Not allowed by CORS!
+07-09-2024	23:41:11	ce1e711a-5039-4018-968a-0d2dd45ea13c	Error	ENOENT: no such file or directory, stat 'D:\D Coddings\Node Js\Express\routes\views\index.html'
+08-09-2024	12:34:29	2a1641ae-43bc-427c-9134-96e72f862d2b	Error	Not allowed by CORS!
+08-09-2024	12:34:29	da39ddac-81bb-42d8-9a83-a31103e24fb3	Error	Not allowed by CORS!
+09-09-2024	13:40:25	caea595e-6279-4cbb-a995-f672222989de	SyntaxError	Unexpected non-whitespace character after JSON at position 52
+18-09-2024	08:53:55	65d1e59a-25a1-4ca7-90dd-ab639505cfcc	SyntaxError	Expected property name or '}' in JSON at position 4

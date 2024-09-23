@@ -1,0 +1,3 @@
+Hello 
+This message is for Write example
+This is the new update
